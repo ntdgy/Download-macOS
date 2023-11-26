@@ -10,7 +10,7 @@ on:
         options:
           - Sonoma v14.0
           - Ventura v13.6
-          - Monterey v12.7.1
+          - Monterey v12.7
           - Big Sur v11.7.10
           - Catalina v10.15.7
           - Mojave v10.14.6
